@@ -15,5 +15,5 @@
 - [ ] [pyuca: Python Unicode Collation Algorithm implementation](https://github.com/jtauber/pyuca/issues/14), [rethinking the Trie #14](https://github.com/jtauber/pyuca)
 
 ## Learning to rank
-- [ ] [How Bloomberg Integrated Learning-to-Rank into Apache Solr](https://www.techatbloomberg.com/blog/bloomberg-integrated-learning-rank-apache-solr/)
+- [ ] [How Bloomberg Integrated Learning-to-Rank into Apache Solr](https://www.techatbloomberg.com/blog/bloomberg-integrated-learning-rank-apache-solr/), [ltr](https://github.com/apache/lucene-solr/tree/master/solr/contrib/ltr)
 
